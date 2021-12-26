@@ -1,0 +1,15 @@
+def menu():
+    print("-"*50)
+    print("\t\t A T M - A P P L I C A T I O N")
+    print("-" * 50)
+    print("\t1.Create an Account.")
+    print("\t2.Deposit Amount.")
+    print("\t3.Withdraw Amount.")
+    print("\t4.Balance Enquiry.")
+    print("\t5.Pin Change.")
+    print("\t6.Funds Transfer.")
+    print("\t7.Close Account.")
+    print("\t8.Slip")
+    print("\t9.Exit.")
+    print("-" * 50)
+
